@@ -1,0 +1,27 @@
+---
+import BaseLayout from '../layouts/BaseLayout.astro';
+import { getCollection } from 'astro:content';
+
+const posts = (await getCollection('blog', ({ data }) => !data.draft))
+  .sort((a, b) => b.data.pubDate.valueOf() - a.data.pubDate.valueOf());
+
+const fmt = (d: Date) =>
+  d.toLocaleDateString('en-US', { month: 'short', year: 'numeric', timeZone: 'UTC' });
+---
+<BaseLayout title="Old blog — Tejas Subramaniam">
+  <h1>Old blog</h1>
+  <p>
+    Posts from my old WordPress blog. My current site and writing are at
+    <a href="https://tejassubramaniam.com/">tejassubramaniam.com</a> and
+    <a href="https://tejassubramaniam.substack.com">The Disagreement Theorem</a>.
+  </p>
+  <ul class="writing-list">
+    {posts.map((post) => (
+      <li>
+        <a class="title" href={`/${post.slug}/`}>{post.data.title}</a>
+        <span class="meta">{fmt(post.data.pubDate)}</span>
+        {post.data.description && <div class="desc">{post.data.description}</div>}
+      </li>
+    ))}
+  </ul>
+</BaseLayout>
