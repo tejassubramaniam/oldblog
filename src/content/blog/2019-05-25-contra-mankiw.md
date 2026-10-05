@@ -7,13 +7,17 @@ Harvard economist Greg Mankiw, someone I greatly respect, wrote an [article for 
 
 First, he says that any economist making a normative judgment—much like any normative judgment made by anyone else—is also assuming a particular political philosophy. Often, they look at what maximizes “social welfare,” measured in utilitarian terms. That’s a value judgment about political philosophy and not an assumption that can be taken for granted.
 
-Second, he offers an alternate political philosophy which he calls a “do-no-harm principle” that is entailed, according to him, by epistemic humility. In his own words:  
+Second, he offers an alternate political philosophy which he calls a “do-no-harm principle” that is entailed, according to him, by epistemic humility. In his own words:
+
 > So, what is the alternative? At the very least, a large dose of humility is in order. When evaluating policies, our elected leaders are wise to seek advice from economists. But if an economist is always confident in his judgments, or if he demonizes those who reach opposite conclusions, you know that he is not to be trusted.
+>
+> In some ways, economics is like medicine two centuries ago. If you were ill at the beginning of the 19th century, a physician was your best bet, but his knowledge was so rudimentary that his remedies could easily make things worse rather than better. And so it is with economics today. That is why we economists should be sure to apply the principle "first, do no harm."
+>
+> This principle suggests that when people have voluntarily agreed upon an economic arrangement to their mutual benefit, that arrangement should be respected. (The main exception is when there are adverse effects on third parties — what economists call “negative externalities.”) As a result, when a policy is complex, hard to evaluate and disruptive of private transactions, there is good reason to be skeptical of it.
 
-In some ways, economics is like medicine two centuries ago. If you were ill at the beginning of the 19th century, a physician was your best bet, but his knowledge was so rudimentary that his remedies could easily make things worse rather than better. And so it is with economics today. That is why we economists should be sure to apply the principle "first, do no harm."
+  
+He then proceeds to apply this principle to the Affordable Care Act and the minimum wage:
 
-This principle suggests that when people have voluntarily agreed upon an economic arrangement to their mutual benefit, that arrangement should be respected. (The main exception is when there are adverse effects on third parties — what economists call “negative externalities.”) As a result, when a policy is complex, hard to evaluate and disruptive of private transactions, there is good reason to be skeptical of it.  
-He then proceeds to apply this principle to the Affordable Care Act and the minimum wage:  
 > As I see it, the minimum wage and the Affordable Care Act are cases in point. Noble as they are in aspiration, they fail the do-no-harm test. An increase in the minimum wage would disrupt some deals that workers and employers have made voluntarily. The Affordable Care Act has disrupted many insurance arrangements that were acceptable to both the insurance company and the insured; these policies were canceled because they deviated from lawmakers’ notion of the ideal.
 
   
@@ -21,7 +25,8 @@ I agree with him that anyone making normative judgments is assuming a certain po
 
 For another, the fact that a contract exists and was signed by both parties does not necessarily make it *truly voluntary.* For a truly free choice to exist, I would argue that certain conditions must be met.
 
-First, I think that, for a choice to be truly free, people should be given access to full information. If there’s a significant information asymmetry, then a person is making a choice without knowing what options exist and what the implications of their choice are. That sounds, intuitively to me, like a coerced choice. And there are good reasons to believe that the market for health insurance. In fact, Professor Mankiw [made this argument about health insurance](https://www.nytimes.com/2017/07/28/upshot/why-health-care-policy-is-so-hard.html) himself:   
+First, I think that, for a choice to be truly free, people should be given access to full information. If there’s a significant information asymmetry, then a person is making a choice without knowing what options exist and what the implications of their choice are. That sounds, intuitively to me, like a coerced choice. And there are good reasons to believe that the market for health insurance. In fact, Professor Mankiw [made this argument about health insurance](https://www.nytimes.com/2017/07/28/upshot/why-health-care-policy-is-so-hard.html) himself:
+
 > Consumers often don’t know what they need. In most markets, consumers can judge whether they are happy with the products they buy. But when people get sick, they often do not know what they need and sometimes are not in a position to make good decisions. They rely on a physician’s advice, which even with hindsight is hard to evaluate.
 
   
