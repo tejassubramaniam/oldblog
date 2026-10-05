@@ -5,7 +5,7 @@ const blog = defineCollection({
   schema: z.object({
     title: z.string(),
     description: z.string().optional(),
-    pubDate: z.coerce.date(),
+    pubDate: z.coerce.date().optional(),
     updatedDate: z.coerce.date().optional(),
     crosspost: z.string().url().optional(),  // URL of Substack version, if any
     draft: z.boolean().default(false),

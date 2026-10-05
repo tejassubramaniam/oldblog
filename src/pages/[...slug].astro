@@ -21,9 +21,11 @@ const fmt = (d: Date) =>
 <BaseLayout title={`${post.data.title} — Tejas Subramaniam`} description={post.data.description}>
   <article>
     <h1>{post.data.title}</h1>
-    <p style="color: var(--faint); font-family: var(--sans); font-size: 13px; margin-top: -1rem; margin-bottom: 2rem;">
-      {fmt(post.data.pubDate)}
-    </p>
+    {post.data.pubDate && (
+      <p style="color: var(--faint); font-family: var(--sans); font-size: 13px; margin-top: -1rem; margin-bottom: 2rem;">
+        {fmt(post.data.pubDate)}
+      </p>
+    )}
     <Content />
   </article>
 </BaseLayout>

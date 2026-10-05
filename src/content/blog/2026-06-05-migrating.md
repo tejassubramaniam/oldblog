@@ -2,6 +2,7 @@
 title: "Migrating"
 pubDate: 2026-06-05
 slug: miscellaneous/migrating
+draft: true
 ---
 I’m in the process of gradually migrating this site to tejassubramaniam.github.io and tejassubramaniam.substack.com.
 
